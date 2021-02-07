@@ -1,4 +1,4 @@
-# profile-card-ui
+# profile card UI
 
 a simple profile card ui.
 
